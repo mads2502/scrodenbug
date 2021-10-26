@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Early warning systems for preventing human-animal conflict**
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **Cloud based systems**
 
 - 👯 I’m looking to collaborate on **Any exciting real-world solutions**
 
