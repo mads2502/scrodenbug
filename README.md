@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu</h1>
-<h3 align="center">A passionate CSE undergrad and a Current Affairs fanatic from India</h3>
+<h3 align="center">A passionate CSE undergrad and a developer</h3>
 
 - 🔭 I’m currently working on **Early warning systems for preventing human-animal conflict**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any exciting real-world solutions**
 
-- 📝 I regularly write articles on [All Current affairs](All Current affairs)
+- 📝 I regularly write articles on [Popular Research Trends]
 
 - 💬 Ask me about **Python, C, HTML**
 
