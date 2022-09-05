@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhu</h1>
-<h3 align="center">A passionate CSE undergrad and a developer</h3>
+<h3 align="center">A passionate CSE grad and a developer</h3>
 
-- 🔭 I’m currently working on **Early warning systems for preventing human-animal conflict**
 
-- 🌱 I’m currently learning **Cloud Algorithms**
-
-- 👯 I’m looking to collaborate on **Any exciting real-world solutions**
-
-- 📝 I regularly write articles on [Popular Research Trends]
-
-- 💬 Ask me about **Python, C, HTML**
-
-- 📫 How to reach me **seyshivma@gmail.com**
-
-- ⚡ Fun fact **I think I love to be a part of solving pressing real world issues**
 
 
 <h3 align="left">Languages and Tools:</h3>
